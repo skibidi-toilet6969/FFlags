@@ -2,6 +2,7 @@
 --If You Are In A Round, Back To Menu Then Join The Round Again, The Unsuals Swapping Should Take Effects And The Emote Swapping Too
 --Press "R" To Reload The Invisible Wall Remover
 --Press "L" To Activate The Save And TP Script, "," To Save The Current Position, "T" To Load The Saved Position
+--Note That After You Went From Menu To The Game, You Have To Press "L" Again To Activate Save And TP Script
 local nameUnusual1 = "EclipseLove"
 local nameUnusual2 = "ToxicInferno"
 local nameEmote1 = "SnowmobileCruise"
